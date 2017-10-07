@@ -6,4 +6,4 @@ puts "#{5 > 2 }"
 
 num = 100 * 200 + 300 - 400
 
-puts "There are #{num} . " + "!" 
+puts "There #{'are'} #{num} . " + "!" 
